@@ -8,7 +8,7 @@
         android:minSdkVersion="18"/>
     <application
         android:label="@string/app_name"
-        android:theme="@style/Materia"
+        android:theme="@style/dizu"
         android:icon="@drawable/ic_launcher">
         <activity
             android:name="MainActivity"
