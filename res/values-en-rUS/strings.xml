@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Dizu</string>
+    <string name="app_name">ZipCode</string>
     <string name="title_activity_display_message">Hello World</string>
     <string name="edit_message">Enter Le Message</string>
     <string name="button_send">Send</string>
