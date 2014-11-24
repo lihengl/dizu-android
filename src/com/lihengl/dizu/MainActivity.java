@@ -17,6 +17,11 @@ public class MainActivity extends Activity
         setContentView(R.layout.main);
     }
 
+    @Override
+    public void onStart() {
+        super.onStart();
+    }
+
     public void sendMessage(View view) {
         Intent intent = new Intent(this, DisplayMessageActivity.class);
         EditText editText = (EditText) findViewById(R.id.edit_message);
