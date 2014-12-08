@@ -1,6 +1,8 @@
 local.properties
+dizu.keystore
 
 .idea/
+
 bin/
 gen/
 
